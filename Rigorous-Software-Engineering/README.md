@@ -1,0 +1,1 @@
+This repository contains my solutions to the project tasks of the "Rigorous Software Engineering" class at ETH Zurich. My team successfully passed the pipeline and achieved a test coverage of over 78%.
