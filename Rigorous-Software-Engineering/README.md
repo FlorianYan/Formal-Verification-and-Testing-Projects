@@ -2,3 +2,6 @@ This repository contains my solutions to the final project task of the "Rigorous
 
 ## Abstract
 In the following project,  we will use **Program Analysis** to verify 3 properties of JAVA programs. In particular, we will use **Abstract Interpretation** and **Pointer Analysis** with APRON and SOOT as well as rigorous **Testing** to reason about the programs.
+
+## Licence
+This project belongs to the SRI Lab at ETH Zurich
